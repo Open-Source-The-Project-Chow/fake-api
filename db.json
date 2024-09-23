@@ -119,7 +119,6 @@
       "surname": "Doe Dee",
       "email": "correo-ejemplo@dominio.com",
       "dni": "12345678",
-      "address": "string",
       "items": "4",
       "status": "Artesano",
       "status_date": "03/09/2024",
