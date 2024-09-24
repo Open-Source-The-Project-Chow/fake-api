@@ -150,12 +150,12 @@
 "amount":"10",
 "deadline":"10/08/2024",
 "status":"In Progress",
-"comment":"Esta bien."
-"comment_date":10/08/2024
+"comment":"Esta bien.",
+"comment_date":"10/09/2024",
 
     },
   {
-     "id":1,
+     "id":2,
 "title": "Tumama",
 "image": "https://th.bing.com/th/id/OIP.IdZDiIi8ZVDiwRNH7jDrvgHaJ4?rs=1&pid=ImgDetMain",
 "craftsman":"Alberto",
@@ -163,8 +163,8 @@
 "amount":"10",
 "deadline":"10/08/2024",
 "status":"In Progress",
-"comment":"Esta bien."
-"comment_date":10/08/2024
+"comment":"Esta bien.",
+"comment_date":"10/09/2024",
   }
 ]
 }
