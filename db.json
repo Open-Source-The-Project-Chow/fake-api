@@ -147,8 +147,8 @@
 "image": "https://th.bing.com/th/id/OIP.5MEsvuIP9BrX8k-CuZT5ggHaE_?rs=1&pid=ImgDetMain",
 "craftsman":"Alberto",
 "distributor":"Roberto",
-"amount":10
-"deadline":10/08/2024
+"amount":"10",
+"deadline":"10/08/2024",
 "status":"In Progress",
 "comment":"Esta bien."
 "comment_date":10/08/2024
@@ -160,8 +160,8 @@
 "image": "https://th.bing.com/th/id/OIP.IdZDiIi8ZVDiwRNH7jDrvgHaJ4?rs=1&pid=ImgDetMain",
 "craftsman":"Alberto",
 "distributor":"Roberto",
-"amount":10
-"deadline":10/08/2024
+"amount":"10",
+"deadline":"10/08/2024",
 "status":"In Progress",
 "comment":"Esta bien."
 "comment_date":10/08/2024
